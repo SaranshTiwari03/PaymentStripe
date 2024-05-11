@@ -32,6 +32,7 @@ npx nodemon index.js
 
 Done! Now open localhost:3000 in your browser.
 
+# now env
 Create a .env file and enter data as shown in .env.example file
 
 Now enter Your Stripe secret Key and Publishable key As shown here:
